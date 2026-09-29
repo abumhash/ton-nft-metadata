@@ -1,0 +1,8 @@
+{
+  "name": "My TON NFT #0",
+  "description": "My first NFT on TON.",
+  "image": "https://example.com/0.png",
+  "attributes": [],
+  "externalUrl": "https://example.com/nft/0",
+  "metadataUrl": "https://example.com/nft/0.json"
+}

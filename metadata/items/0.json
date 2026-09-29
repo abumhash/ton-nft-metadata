@@ -1,8 +1,8 @@
 {
   "name": "Anonymous Number",
   "description": "The anonymous number +888 0250 1337 that can be used to create a Telegram account that is not tied to a SIM card.",
-  "image": "https://raw.githubusercontent.com/abumhash/ton-nft-metadata/refs/heads/main/0.jpg",
+  "image": "https://raw.githubusercontent.com/abumhash/ton-nft-metadata/refs/heads/main/metadata/images/0.jpg",
   "attributes": [],
   "externalUrl": "https://fragment.com/numbers",
-  "metadataUrl": "https://raw.githubusercontent.com/abumhash/ton-nft-metadata/refs/heads/main/0.json"
+  "metadataUrl": "https://raw.githubusercontent.com/abumhash/ton-nft-metadata/refs/heads/main/metadata/items/0.json"
 }

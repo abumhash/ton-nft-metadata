@@ -1,6 +1,6 @@
 {
-  "name": "My TON Collection",
-  "description": "My first NFT collection on TON.",
-  "image": "https://example.com/collection.png",
-  "external_link": "https://example.com"
+  "name": "Anonymous Telegram Numbers",
+  "description": "These anonymous numbers can be used to create Telegram accounts that are not tied to SIM cards.",
+  "image": "https://raw.githubusercontent.com/abumhash/ton-nft-metadata/refs/heads/main/collection.jpg",
+  "external_link": "https://fragment.com/numbers"
 }
